@@ -1,6 +1,7 @@
 # RO-animacy
 ## Background
-This repository contains the code for a classifier that distinguishes between two classes of Romanian nouns: human and non-human. The classifier is built using pre-trained word embeddings and three different machine learning algorithms: Random Forest, Multi-layer Perceptron, and k-nearest neighbors. The corresponding paper is **Automatic Animacy Classification for Romanian Nouns**.
+This repository contains the code for a classifier that distinguishes between two classes of Romanian nouns: human and non-human. The classifier is built using pre-trained word embeddings and three different machine learning algorithms: Random Forest, Multi-layer Perceptron, and k-nearest neighbors. The corresponding paper is:
+Tepei, M., & Bloem, J. (in press). **Automatic Animacy Classification for Romanian Nouns**. In *Proceedings of the Joint International Conference on Computational Linguistics, Language Resources and Evaluation 2024* (COLING-LREC 2024)
 ## Usage
 Install the required libraries: nltk, gensim, numpy, pandas, scikit-learn, spacy.
 Download the necessary data: 
